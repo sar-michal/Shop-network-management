@@ -16,7 +16,7 @@ protected:
      //list of pointers to the SecondHandShop class
 public:
     Person(string name);
-     //constructor;
+     //constructor
     ~Person();
      //destructor
     int getPersonID() const;
