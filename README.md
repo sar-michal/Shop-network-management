@@ -10,8 +10,8 @@ It provides a wide range of functionality such as:
   information)
 * various operations on customers (adding, removing, modifying data)
 * various operations on the inventory (adding items, removing items, modifying data)
-* presenting all data
-  <a/>
+* presenting all data  
+<a/>
 It is additionally equipped with preventative measures against illegal data operations.  
 
 More in-depth information is contained within "Project_description.pdf" file.
