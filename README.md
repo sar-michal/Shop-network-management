@@ -13,5 +13,5 @@ It provides a wide range of functionality such as:
 * presenting all data  
 <a/>
 It is additionally equipped with preventative measures against illegal data operations.  
-
+  
 More in-depth information is contained within "Project_description.pdf" file.
