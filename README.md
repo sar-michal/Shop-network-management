@@ -11,6 +11,6 @@ It provides a wide range of functionality such as:
 * various operations on customers (adding, removing, modifying data)
 * various operations on the inventory (adding items, removing items, modifying data)
 * presenting all data  
-It is additionally equipped with preventative measures against illegal data operations.  
-  
+* It is additionally equipped with preventative measures against illegal data operations.  
+<a/>  
 More in-depth information is contained within "Project_description.pdf" file.
