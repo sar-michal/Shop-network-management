@@ -16,6 +16,9 @@ A data bank stores information about the crucial aspects of shop management. It 
 
 It is additionally equipped with preventative measures against illegal data operations.
 
+## Memory Map
+![Memory_map](https://github.com/user-attachments/assets/5a7f7048-60d2-48f4-8078-84e06b034923)
+
 ## Class and Data Structures Overview
 
 There exist the following classes: `ShopNetwork`, `SecondHandShop`, `Person`, `Employee`, `Customer`, `Item`. There also exist two-directional lists which can store an unlimited amount of data. They correspond to each category of the `ShopNetwork` (`shopList`, `employeeList`, `customerList`, `inventory`).
