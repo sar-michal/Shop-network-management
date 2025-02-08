@@ -4,17 +4,11 @@
 #include <cmath>
 #include <assert.h>
 using namespace std;
-#include "Item.h"
 #include "Item.cpp"
-#include "Person.h"
 #include "Person.cpp"
-#include "Employee.h"
 #include "Employee.cpp"
-#include "Customer.h"
 #include "Customer.cpp"
-#include "SecondHandShop.h"
 #include "SecondHandShop.cpp"
-#include "ShopNetwork.h"
 #include "ShopNetwork.cpp"
 
 int main()
